@@ -3,6 +3,8 @@
 This repository is a simple implementation of the Marvel/Goku "challenge" using open API's available.
 Unfortunately Marvel emails didn't reach me when attempting to setup the connection, thus I switched to the alternative one: Dragon Ball Z API.
 
+One minor detail that isn't obvious: to see only the favorites you need click on the header heart icon top right :). In retrospective I should've been done better, I totally missed creating a dedicated page for this one.
+
 I left below the basic instructions to setup and run the application. Enjoy!
 
 ## Technical details
