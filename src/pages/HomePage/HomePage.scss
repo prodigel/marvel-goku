@@ -1,0 +1,16 @@
+.home-page {
+  padding: 0 16px 16px 16px;
+  box-sizing: border-box;
+  h1 {
+    text-transform: uppercase;
+  }
+
+  .card-container {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(172.5px, 1fr));
+    >* {
+      margin: auto;
+    }
+  }
+}

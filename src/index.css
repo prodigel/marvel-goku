@@ -1,0 +1,18 @@
+body, p {
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --color-text-light: #ffffff;
+  --color-text-placeholder: #aaaaaa;
+  --color-accent: #EC1D24;
+  --color-background-dark: #000000;
+  --color-background-light: #ffffff;
+  --color-border-dark: #000000;
+}

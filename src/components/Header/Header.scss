@@ -1,0 +1,20 @@
+.Header {
+  padding: 23.16px 16px;
+  box-sizing: border-box;
+  background: var(--color-background-dark);
+
+  &__Favorites {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+
+    span {
+      padding-left: 8px;
+      color: var(--color-text-light);
+      font-size: 16px;
+      line-height: 18.75px;
+
+    }
+  }
+
+}
